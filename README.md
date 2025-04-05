@@ -2,7 +2,7 @@
 
 # Hello TT魔怔人
 
-没有什么好说的
+BATA 1.8.0 through 1.7.4 are dead
 
 </header>
 
@@ -20,11 +20,9 @@ _TT "我是禁闭"! :wave:_
 
 Good friend plus me `T/ROOMID 355007106`.
 
-### :keyboard: Activity: Create a workflow file
+### :The beautification package also died
 
 1.You're here for the old version, and you're good to go.
-
-   Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:welcome-workflow`, click **Create pull request**, then click **Create pull request** again.
 
 1. Navigate to the **Code** tab.
 1. From the **main** branch dropdown, click on the **welcome-workflow** branch.
