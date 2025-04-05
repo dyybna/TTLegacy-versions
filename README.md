@@ -17,7 +17,7 @@ _TT "我是禁闭"! :wave:_
 - TT  I'm telling you the bad news that the old version is dead
 - TT If you have anything to say, you can send me a private message in the background
 
-Why cling to a version that is already dead.Is it just an effect.Deemed unnecessary
+Why cling to a version that is already dead
 
 
 
