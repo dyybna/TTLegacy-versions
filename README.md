@@ -8,6 +8,8 @@ BATA 1.8.0 through 1.7.4 are dead
 
 ## 依旧是我 : 禁闭
 
+用翻译器翻译一下.可能有一些人看不懂
+
 _TT "我是禁闭"! :wave:_
 
 *You should all be here for the old TT version I'm telling you the bad news that the old version is dead:
