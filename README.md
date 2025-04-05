@@ -18,7 +18,7 @@ _TT "我是禁闭"! :wave:_
 *If you're here for the old version, you're good to go
 
 
-To get you started, we ran an Actions workflow in your new repository that, among other things, created a branch for you to work in, called `welcome-workflow`.
+rúguǒ nín shìwèile jiù bǎnběn érlái nànín kěyǐ líkāi le `welcome-workflow`.
 
 ### :keyboard: Activity: Create a workflow file
 
