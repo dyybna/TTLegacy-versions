@@ -6,7 +6,7 @@
 
 </header>
 
-## Step 1: 禁闭
+## 依旧是我 1: 禁闭
 
 _Welcome to "我是禁闭"! :wave:_
 
