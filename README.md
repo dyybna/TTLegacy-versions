@@ -15,7 +15,7 @@ _TT "我是禁闭"! :wave:_
 - TT  I'm telling you the bad news that the old version is dead
 - TT If you have anything to say, you can send me a private message in the background
 
-*Warning: The old version is dead.
+*If you're here for the old version, you're good to go
 
 
 To get you started, we ran an Actions workflow in your new repository that, among other things, created a branch for you to work in, called `welcome-workflow`.
