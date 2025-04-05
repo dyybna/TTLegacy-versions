@@ -14,8 +14,8 @@ _TT "我是禁闭"! :wave:_
 
 *You should all be here for the old TT version I'm telling you the bad news that the old version is dead:
 
-- TT  I'm telling you the bad news that the old version is dead
-- TT If you have anything to say, you can send me a private message in the background
+*I'm telling you the bad news that the old version is dead
+*If you have anything to say, you can send me a private message in the background
 
 Why cling to a version that is already dead
 
