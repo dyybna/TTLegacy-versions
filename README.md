@@ -17,7 +17,8 @@ _TT "我是禁闭"! :wave:_
 - TT  I'm telling you the bad news that the old version is dead
 - TT If you have anything to say, you can send me a private message in the background
 
-*If you're here for the old version, you're good to go
+Why cling to a version that is already dead.Is it just an effect.Deemed unnecessary
+
 
 
 Good friend plus me `T/ROOMID 355007106`.
