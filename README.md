@@ -19,7 +19,9 @@ _TT "我是禁闭"! :wave:_
 
 Why cling to a version that is already dead
 
+Just want to make your voice louder
 
+A thing is sold so expensive, and there are still people who buy it.I don't think it's necessary
 
 Good friend plus me `T/ROOMID 355007106`.
 
