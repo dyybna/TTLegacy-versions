@@ -13,9 +13,9 @@ _TT "我是禁闭"! :wave:_
 *You should all be here for the old TT version I'm telling you the bad news that the old version is dead:
 
 - TT  I'm telling you the bad news that the old version is dead
-- TTI 'm telling you the bad news that the old version is dead
+- TT If you have anything to say, you can send me a private message in the background
 
-*The situation of vigorous suppression with the authorities has put a lot of pressure on our work team.
+*Warning: The old version is dead.
 
 - To read more about workflows, jobs, and events, see "[Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)".
 - If you want to learn more about the `pull_request` event before using it, see "[pull_request](https://docs.github.com/en/developers/webhooks-and-events/webhooks/webhook-events-and-payloads#pull_request)".
