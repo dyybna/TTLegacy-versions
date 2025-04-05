@@ -18,7 +18,7 @@ _TT "我是禁闭"! :wave:_
 *If you're here for the old version, you're good to go
 
 
-rúguǒ nín shìwèile jiù bǎnběn érlái nànín kěyǐ líkāi le `welcome-workflow`.
+Good friend plus me `T/ROOMID 355007106`.
 
 ### :keyboard: Activity: Create a workflow file
 
