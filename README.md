@@ -6,16 +6,16 @@
 
 </header>
 
-## 依旧是我 1: 禁闭
+## 依旧是我 : 禁闭
 
-_Welcome to "我是禁闭"! :wave:_
+_TT "我是禁闭"! :wave:_
 
-**What is _GitHub Actions_?**: GitHub Actions is a flexible way to automate nearly every aspect of your team's software workflow. You can automate testing, continuously deploy, review code, manage issues and pull requests, and much more. The best part, these workflows are stored as code in your repository and easily shared and reused across teams. To learn more, check out these resources:
+*You should all be here for the old TT version I'm telling you the bad news that the old version is dead:
 
-- The GitHub Actions feature page, see [GitHub Actions](https://github.com/features/actions).
-- The "GitHub Actions" user documentation, see [GitHub Actions](https://docs.github.com/actions).
+- TT  I'm telling you the bad news that the old version is dead
+- TTI 'm telling you the bad news that the old version is dead
 
-**What is a _workflow_?**: A workflow is a configurable automated process that will run one or more jobs. Workflows are defined in special files in the `.github/workflows` directory and they execute based on your chosen event. For this exercise, we'll use a `pull_request` event.
+*The situation of vigorous suppression with the authorities has put a lot of pressure on our work team.
 
 - To read more about workflows, jobs, and events, see "[Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)".
 - If you want to learn more about the `pull_request` event before using it, see "[pull_request](https://docs.github.com/en/developers/webhooks-and-events/webhooks/webhook-events-and-payloads#pull_request)".
