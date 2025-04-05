@@ -22,8 +22,7 @@ Good friend plus me `T/ROOMID 355007106`.
 
 ### :keyboard: Activity: Create a workflow file
 
-1. Open a new browser tab, and navigate to this same repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-1. Create a pull request. This will contain all of the changes you'll make throughout this part of the course.
+1.You're here for the old version, and you're good to go.
 
    Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:welcome-workflow`, click **Create pull request**, then click **Create pull request** again.
 
